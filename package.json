@@ -1,0 +1,38 @@
+{
+  "name": "puppet-module-generator",
+  "main": "./lib/atom-smart-template",
+  "version": "0.1.0",
+  "description": "Easily create puppet modules based on templates",
+  "author": "Abir Majumdar <abir@puppet.com>",
+  "keywords": [
+    "template"
+  ],
+  "repository": "https://github.com/maju6406/puppet-module-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "activationCommands": {
+    ".tree-view .selected": "atom-smart-template:create-files-from-template",
+    "atom-workspace": [
+      "atom-smart-template:open-temlates-folder",
+      "atom-smart-template:open-temlates-folder-in-atom"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/believer/atom-react-alt-templates"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0",
+    "fs-extra": "^0.26.2",
+    "fs-plus": "^2.8.1",
+    "loophole": "^1.1.0",
+    "space-pen": "^5.1.1",
+    "underscore": "^1.8.3"
+  }
+}
