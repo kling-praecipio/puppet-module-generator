@@ -1,7 +1,7 @@
 {
   "name": "puppet-module-generator",
   "main": "./lib/atom-smart-template",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Easily create puppet modules based on templates",
   "author": "Abir Majumdar <abir@puppet.com>",
   "keywords": [
