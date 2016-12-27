@@ -1,6 +1,6 @@
 # atom-puppet-module-generator
 
-All credit goes to [Alexey Sokolov](https://github.com/AlexeySokolov) who made the nice package [atom-smart-template](https://github.com/AlexeySokolov/atom-smart-template), I'm just expanding his great code.
+All credit goes to [Alexey Sokolov](https://github.com/AlexeySokolov) who made the nice package [atom-smart-template](https://github.com/AlexeySokolov/atom-smart-template), I'm just expanding his great code. Idea/project inspired by [atom-react-alt-templates](https://github.com/believer/atom-react-alt-templates).
 
 This package provides an easy way to generate templated Puppet module code as a starting point.
 
