@@ -1,7 +1,7 @@
 {
   "name": "puppet-module-generator",
   "main": "./lib/atom-smart-template",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Easily create puppet modules based on templates",
   "author": "Alexey Sokolov <soka.mail@gmail.com>",
   "contributors": [
@@ -28,10 +28,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/maju6406/puppet-module-generator"
-  },
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "atom-space-pen-views": "^2.1.0",
