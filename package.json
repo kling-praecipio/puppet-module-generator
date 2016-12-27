@@ -3,7 +3,14 @@
   "main": "./lib/atom-smart-template",
   "version": "0.0.0",
   "description": "Easily create puppet modules based on templates",
-  "author": "Abir Majumdar <abir@puppet.com>",
+  "author": "Alexey Sokolov <soka.mail@gmail.com>",
+  "contributors": [
+    {
+      "name": "Abir Majumdar",
+      "email": "abir@puppet.com",
+      "url": "https://about.me/abir"
+    }
+  ],
   "keywords": [
     "template"
   ],
